@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Parquet output from load_to_databricks.py --dry-run
+parquet_out/
